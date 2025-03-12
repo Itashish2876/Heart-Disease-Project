@@ -1,5 +1,5 @@
 ## 🌐 Live Demo
-[Click here to view the live app 🚀](https://heart-disease-predictior.streamlit.app/)
+[Click here to view the live app 🚀](https://heart-app-checker.streamlit.app/)
 
 # Heart Disease Prediction Project
 
